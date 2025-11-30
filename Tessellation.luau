@@ -280,7 +280,7 @@ function Tessellation.new(
 	typedSelf:_EmitDebug({
 		type = "ANIMATOR_CREATE",
 		timestamp = os.clock(),
-		details = "Kernel initialized with v2.0 architecture",
+		details = "Kernel initialized",
 		success = true,
 		severity = "info",
 	})
